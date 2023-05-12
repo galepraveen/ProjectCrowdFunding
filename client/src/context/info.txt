@@ -1,0 +1,1 @@
+this folder consits all the data that can be accessed from anywhere i.e., useContext is created

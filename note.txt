@@ -1,0 +1,1 @@
+to create the react app using thirdweb: npx thirdweb create --template vite-javascript-starter
